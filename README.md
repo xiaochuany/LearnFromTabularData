@@ -1,7 +1,8 @@
 LearnTab
 ==============================
 
-create a pipeline for EDA and prediction for tabular data
+- Adopt the cookiecutter approach for creating ML projects: from prototype to production
+- Focus on tabular data 
 
 Project Organization
 ------------
